@@ -7,6 +7,8 @@
 
 Have you ever thought of implementing an image as Zen's background color? That's how i started this... This has the nightcity aesthetic BUT you are welcome to change the image, add colors, or event change something.
 
+Special thank you for nova17_ on discord for the customized new tab page. [[Link]](https://discord.com/channels/1088172780480114748/1317054453836415048)
+
 ## Tutorials
 
 ### How to add to Zen?
