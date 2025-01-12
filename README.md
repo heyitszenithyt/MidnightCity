@@ -1,11 +1,11 @@
-# Midnight City
+# The Midnight City Engine Project
 <a href="https://zen-browser.app">
   <img src="https://github.com/heyitszenithyt/zen-browser-badges/blob/59343854506a29fa530d2e7a29a13ae928357dbb/light/zen-badge-light.png" height="70px" width="auto" />
 </a>
 
 ------
 
-Have you ever thought of implementing an image as Zen's color? That's how i started this... This has the nightcity aesthetic BUT you are welcome to change the image, add colors, or event change something.
+Have you ever thought of implementing an image as Zen's background color? That's how i started this... This has the nightcity aesthetic BUT you are welcome to change the image, add colors, or event change something.
 
 ## Tutorials
 
